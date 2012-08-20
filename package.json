@@ -1,0 +1,17 @@
+{
+  "author": "Nathan Oehlman <nathan.oehlman@kondoot.com>",
+  "name": "steelmesh-client",
+  "description": "Simple Steelmesh client library for use with Steelmesh 2 advanced interactions",
+  "version": "0.0.0",
+  "repository": {
+    "url": ""
+  },
+  "main": "client.js",
+  "engines": {
+    "node": "~0.8.5"
+  },
+  "dependencies": {
+    "underscore": "*"
+  },
+  "devDependencies": {}
+}
