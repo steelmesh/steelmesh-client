@@ -1,5 +1,4 @@
-var _ = require('underscore'),
-    eve = require('eve');
+var _ = require('underscore');
 
 /**
   Instructs Steelmesh that this client is ready for requests
